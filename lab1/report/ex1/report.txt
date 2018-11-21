@@ -1,0 +1,9 @@
+Input space
+
+Partition #1:
+
+Partition #2:
+
+Border cases:
+
+Found bugs: None.
